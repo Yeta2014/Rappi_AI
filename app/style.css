@@ -1,0 +1,27 @@
+.main {
+    background-color: #FAFAFA;
+}
+
+.stButton > button {
+    background-color: #FF441F;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.stDownloadButton > button {
+    background-color: #FF441F;
+    color: white;
+    border-radius: 10px;
+}
+
+.stTextInput > div > div > input {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+h1, h2, h3 {
+    color: #FF441F;
+}
