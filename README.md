@@ -17,7 +17,7 @@ Este proyecto permite analizar datos de órdenes y métricas mediante un chatbot
 ---
 
 ## 🏗️ Arquitectura del proyecto
-
+```
 RAPPI-AI-INSIGHTS/
 │
 ├── app/ # Interfaz (Streamlit)
@@ -49,7 +49,7 @@ RAPPI-AI-INSIGHTS/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ⚙️ Instalación
